@@ -1,3 +1,5 @@
-fastai>=2.5.0,<3.0.0
-gradio==2.3.9
-gunicorn==20.1.0
+# mamba==1.4.2
+# conda==23.3.1
+gradio==4.8.0
+torch
+fastai
